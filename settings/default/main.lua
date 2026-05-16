@@ -12,7 +12,7 @@ xi.settings = xi.settings or {}
 xi.settings.main =
 {
     -- Server name (not longer than 15 characters)
-    SERVER_NAME = "Nameless",
+    SERVER_NAME = "Compendium",
 
     SERVER_MESSAGE =
         "Please visit https://github.com/LandSandBoat/server for the latest information on the project.\n" ..
